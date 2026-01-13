@@ -75,20 +75,17 @@ Computer Science Engineering student specializing in AI/ML and full-stack develo
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
+📊 GitHub Statistics
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kshitiz-glitch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz-glitch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="170" alt="Most Used Languages" />
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=kshitiz-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kshitiz-glitch&theme=dracula&column=4&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
