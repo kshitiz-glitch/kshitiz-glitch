@@ -75,14 +75,17 @@ Computer Science Engineering student specializing in AI/ML and full-stack develo
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kshitiz-glitch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz-glitch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="170" alt="Most Used Languages" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kshitiz-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kshitiz-glitch&theme=dracula&column=4&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 </p>
@@ -101,7 +104,7 @@ Browser-based progressive web app for oral cancer screening using on-device AI i
 - 🎯 Integrated Zero-DCE low-light enhancement with automated quality checks and uncertainty-based outputs
 - 🌐 Enabled privacy-preserving workflows with background sync for secure data handling
 
-### 🔹 [News SEO Pro – AI-Powered SEO Generator](https://github.com/kshitiz-glitch/news-seo-pro)
+### 🔹 [News SEO Pro – AI-Powered SEO Generator](https://github.com/kshitiz-glitch/seo-generator)
 **Tech Stack:** FastAPI • React (Vite) • MongoDB Atlas • Tailwind CSS • Groq LLaMA 3 API • JWT
 
 AI-powered platform that generates SEO-optimized titles and meta descriptions from documents and URLs, reducing manual content creation time by 80%.
@@ -113,7 +116,7 @@ AI-powered platform that generates SEO-optimized titles and meta descriptions fr
 
 **[🔗 Live Demo](https://news-seo-pro.vercel.app)** | **[💻 Source Code](https://github.com/kshitiz-glitch/seo-generator)**
 
-### 🔹 [Employee Feedback Management System](https://github.com/kshitiz-glitch/employee-feedback-system)
+### 🔹 [Employee Feedback Management System](https://github.com/kshitiz-glitch/feedback-system)
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Nodemailer • Tailwind CSS
 
 Enterprise-grade feedback platform with role-based access control and database isolation for scalable multi-organization usage.
@@ -125,7 +128,7 @@ Enterprise-grade feedback platform with role-based access control and database i
 
 **[🔗 Live Demo](https://employee-feedback-system.vercel.app)** | **[💻 Source Code](https://github.com/kshitiz-glitch/feedback-system)**
 
-### 🔹 [Job Search Web Portal](https://github.com/kshitiz-glitch/job-portal)
+### 🔹 [Job Search Web Portal](https://github.com/kshitiz-glitch/job-search-portal)
 **Tech Stack:** React.js • Spring Boot • MongoDB • Material UI
 
 Full-stack job portal with advanced search functionality, authentication, and separate dashboards for job seekers and employers.
